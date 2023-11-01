@@ -1,0 +1,1 @@
+# Store workspace public IP to config file
